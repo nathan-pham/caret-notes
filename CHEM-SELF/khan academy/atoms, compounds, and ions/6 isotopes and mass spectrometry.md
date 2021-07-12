@@ -71,4 +71,21 @@ ex) Bromine has two stable isotopes—bromine-79 and bromine-81 . The relative a
 The average atomic mass is likely closer to 80 u (actual is 79.90 u).
 
 ## Mass Spectrometry
+![](https://cdn.kastatic.org/ka-perseus-images/8f121f731f96bfe075bd1cd7306c8d8b95c4bb22.png)
+1. sample is injected into a mass spectrometer as an aqueous solution
+2. vaporized by a heater
+3. bombard solution with electrons -> creates positively charged ions
+4. ions are accelerated through electric fields
+5. deflected by magnetic fields and interpreted by a detector
 
+amount of ion deflection is determined by speed and charge
+- heaver ions are deflected less, lighter ions more
+- higher charged ions are deflected more, lower less
+- inversely proportional to the **mass-to-charge ratio (m/z)** (lower means deflected more, higher means deflected less)
+
+detector measures m/z ratio and number of ions per ratio
+- relative abundance = ions of a particular ratio / total ions detected
+- mass spectrum: plots relative abundance to mass-to-charge ratio
+
+ex) A sample of copper is injected into a mass spectrometer. After the sample is vaporized and ionized, the ions <sup>63</sup>Cu<sup>2+</sup> and <sup>65</sup>Cu<sup>2+</sup> are detected. Which ion is deflected more inside the spectrometer?
+<sup>63</sup>Cu<sup>2+</sup> is deflected more in the spectrometer
