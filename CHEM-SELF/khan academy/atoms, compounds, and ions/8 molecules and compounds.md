@@ -38,3 +38,14 @@ molecular shape -> trigonal pyramidal (caused by the repulsion between the hydro
 space-filing model shows relative sizes of atoms
 ball-and-stick model shows covalent bonds
 
+## Ions and Ion Formation
+formed when oppositely charged ions (atoms with a net charge) attract each other
+
+![](https://cdn.kastatic.org/ka-perseus-images/0c30c6146d2dce3404af2768d666875002c5bb09.jpg)
+**cation**: positively charged ion
+
+![](https://cdn.kastatic.org/ka-perseus-images/7e1f774d6eb3083d360307f8b5ab58a471cc6a33.jpg)
+**anion**: negatively charged ion (usually adds a _ide_ suffix)
+- ex) Cl<sup>-</sup> = chloride
+
+## Ionic Bonds
