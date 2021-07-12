@@ -53,3 +53,22 @@ very closely related because the mass of protons & neutrons is roughly 1 u
 - mass number is the count of particles in the nucleus; it is always an integer
 - atomic mass contains a unit of mass (u) and is usually not an integer
 
+## Relative Abundance and Average Atomic Mass
+all masses on periodic table are averages based on atomic mass and natural abundance of an element's (stable) isotopes
+- referred to as **average atomic mass (atomic weight)**
+- weighted average of relative abundance and atomic mass
+
+**relative abundance**: describes how some isotopes are more naturally occurring on Earth than others
+
+ex) chlorine-35 has a relative abundance of 75.76%, chlorine-37 has a relative abundance of 24.24%
+
+![](..\..\..\.pastes\2021-07-11-19-23-12.png)
+chlorine average atomic mass: (0.7576 x 34.97 u) + (0.2424 × 36.97 u)
+= 26.49 u + 8.96 u
+= 35.45 u
+
+ex) Bromine has two stable isotopes—bromine-79 and bromine-81 . The relative abundance of the isotopes are 50.70% and 49.30% respectively. Is the atomic weight of bromine closest to 79, 80, or 81?
+The average atomic mass is likely closer to 80 u (actual is 79.90 u).
+
+## Mass Spectrometry
+
