@@ -2,8 +2,14 @@
 **Dalton's atomic theory**: describes matter in terms of atoms, based on 
 - **law of conservation of mass**: all matter is made of indivisible atoms, it cannot be created nor destroyed
 - **law of constant composition**: all atoms of an element are identical in mass and properties
-- compounds are made of a combination of atoms
-- chemical reactions are the rearrangement of atoms
+
+compounds are made of a combination of atoms
+chemical reactions are the rearrangement of atoms
+
+1. all matter is made of atoms
+2. all atoms of a given mass are identical in mass and properties (only mostly true because isotopes cause differences in mass)
+3. compounds are a combination of different atoms; atoms are indivisible and only combine in whole number ratios
+4. chemical reactions rearrange (not destroy) atoms
 
 ## Basis for Dalton's Theory
 **law of conservation of mass**: in a closed system, matter is not created nor destroyed
@@ -15,3 +21,4 @@
 
 ex) A time-travelling scientist from the early 1700s decides to run the following experiment: he takes a 10 gram sample of ethanol (CH<sub>3</sub>CH<sub>2</sub>OH) and burns it in the presence of oxygen in an open beaker. After the reaction is done, the beaker is empty. Does this result violate the law of conservation of mass?
 No, the beaker is open and therefore does not accurately represent the law of conservation of mass. 
+
