@@ -29,10 +29,27 @@ contains 2 protons, 2 electrons, and 2 neutrons
 
 ## Particle Masses and Unified Atomic Mass Units
 **unified atomic mass unit (u)**: conceptualize mass at atomic scales
-1 u = 1/2 of the mass of neutral carbon-12 
+1 u = 1/2 of the mass of neutral carbon-12 (hyphen notation)
 
 ex) How many protons are in the nucleus of an atom of carbon-12?
 There are 6 protons in carbon-12
 
 ![](..\..\..\.pastes\2021-07-11-19-04-03.png)
 electron has a much smaller relative mass compared to the protons & neutrons of an atom; has a near negligible effect on atomic mass
+
+## Mass Number and Isotope Notation
+**mass number** = number of protons + number of neutrons
+- useful in defining the isotope of an element
+
+ex) Chromium-52 is the most stable isotope of chromium. How many neutrons are found in a single atom of chromium-52?
+52 mass number - 24 protons = 28 neutrons
+
+**isotopic notation**:: atomic number, mass number, charge of isotope, chemical symbol (net charge not included for neutral atoms)
+
+![](..\..\..\.pastes\2021-07-11-19-14-15.png)
+
+## Atomic Mass vs Mass Number
+very closely related because the mass of protons & neutrons is roughly 1 u
+- mass number is the count of particles in the nucleus; it is always an integer
+- atomic mass contains a unit of mass (u) and is usually not an integer
+
