@@ -33,3 +33,6 @@ contains 2 protons, 2 electrons, and 2 neutrons
 
 ex) How many protons are in the nucleus of an atom of carbon-12?
 There are 6 protons in carbon-12
+
+![](..\..\..\.pastes\2021-07-11-19-04-03.png)
+electron has a much smaller relative mass compared to the protons & neutrons of an atom; has a near negligible effect on atomic mass
