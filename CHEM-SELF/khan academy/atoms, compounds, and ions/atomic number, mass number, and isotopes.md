@@ -11,4 +11,6 @@
 ![](..\..\..\.pastes\2021-07-11-17-25-30.png)
 subscript: atomic number, number of protons & electrons in a neutral atom
 superscript: mass number, number of protons + number of neutrons
-also represented by **hyphen notation** (carbon-13)
+
+also represented by **hyphen notation** 
+- ex) carbon-13
