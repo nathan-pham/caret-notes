@@ -89,3 +89,14 @@ detector measures m/z ratio and number of ions per ratio
 
 ex) A sample of copper is injected into a mass spectrometer. After the sample is vaporized and ionized, the ions <sup>63</sup>Cu<sup>2+</sup> and <sup>65</sup>Cu<sup>2+</sup> are detected. Which ion is deflected more inside the spectrometer?
 <sup>63</sup>Cu<sup>2+</sup> is deflected more in the spectrometer
+
+## Analyzing the Mass Spectrum of Zirconium
+![](..\..\..\.pastes\2021-07-11-19-42-56.png)
+5 naturally occurring isotopes of zirconium
+x-axis was labeled as atomic mass, means all ions had a +1 charge
+
+ex) Based on this spectrum, what is the most common naturally occurring isotope of zirconium?
+Based on the spectrum, zicronium-90 is the most common isotope
+
+![](..\..\..\.pastes\2021-07-11-19-45-06.png)
+calculating average atomic mass: (89.905 * 0.5145) + (90.906 * 0.1122) + (91.905 * 0.1715) + (93.906 * 0.1738) + (95.908 * 0.0280) = 91.22377 u
