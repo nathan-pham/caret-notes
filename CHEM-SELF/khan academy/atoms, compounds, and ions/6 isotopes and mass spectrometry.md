@@ -26,3 +26,10 @@ contains 2 protons, 2 electrons, and 2 neutrons
 **isotopes**: atoms of the same element with a varying number of neutrons; retains identity and characteristics 
 - derived from _iso_: same, _tope_: place
 - isotopes of an element still have the same number of protons; same place on periodic table (though varying neutrons results in unique atomic mass)
+
+## Particle Masses and Unified Atomic Mass Units
+**unified atomic mass unit (u)**: conceptualize mass at atomic scales
+1 u = 1/2 of the mass of neutral carbon-12 
+
+ex) How many protons are in the nucleus of an atom of carbon-12?
+There are 6 protons in carbon-12
