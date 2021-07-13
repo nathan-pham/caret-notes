@@ -49,3 +49,13 @@ formed when oppositely charged ions (atoms with a net charge) attract each other
 - ex) Cl<sup>-</sup> = chloride
 
 ## Ionic Bonds
+![](..\..\..\.pastes\2021-07-13-12-27-07.png)
+![](https://cdn.kastatic.org/ka-perseus-images/99e84686a2a3381cdbf8e264a8b94dd1a9c26f41.jpg)
+sodium chloride exists as a solid crystalline lattice, not a single molecule 
+
+## Covalent vs Ionic Compounds: Molecules vs Formula Units
+molecule: only refers to covalent compounds
+formula unit: only refers to ionic compounds
+
+ex) Which type of compounds of molecules - ionic or covalent?
+Covalent compounds
