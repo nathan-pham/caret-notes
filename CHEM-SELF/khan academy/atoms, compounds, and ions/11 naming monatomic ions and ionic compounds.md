@@ -37,12 +37,61 @@ ex) Fe<sup>2+</sup> and Fe<sup>3+</sup>
 
 **polyvalent**: able to form cations of different charges, like iron
 - must specify charge because it is variable, often written with Roman numerals
-- ex) (wr46ok666666666e666666n) iron two, iron two-plus
+- ex) iron(II), iron two, iron two-plus
 
-## Naming Anions
+## Naming Monatomic Anions
 mostly append a _-ide_ suffix
 - ex) carbon -> carbide
-- ex) phosphorus -> phosphide46
-66-6666666666666666666 ex) bromine -> bromide
+- ex) phosphorus -> phosphide
+- ex) ex) bromine -> bromide
 
-4666666666666666666666666666666666666666666666666666666
+## Formulas and Naming of Ionic Compounds
+- always name cation before anion
+- do not include charge unless it is polyvalent
+- all ionic compounds have a net charge of 0
+- formulas should  be reduced to lowest ratios
+
+ex) What is the chemical formula of potassium chloride?
+KCl (K<sup>+</sup> and Cl<sup>-</sup>)
+
+ex) What is the name of the ionic compound Mg<sub>3</sub>P<sub>2</sub>?
+Magnesium phosphide
+
+ex) What is the chemical formula for calcium bromide?
+CaBr<sub>2</sub>
+
+Calcium (+2 charge)
+Bromine (-1 charge)
+
+ex) What is the name of SrF<sub>2</sub>?
+Strontium fluoride
+
+Strontium (+2 charge)
+Fluorine (-1 charge x 2)
+
+ex) What are the constituent ions present in the compound Al<sub>2</sub>S<sub>3</sub>?
+2 Al<sup>3+</sup> and 3 S<sup>2-</sup>
+
+Aluminum (+3 charge x 2 atoms = +6 charge)
+Sulfur (-2 charge x 3 atoms = -6 charge)
+
+## Naming Ionic Compounds with Polyvalent Cations
+**systematic name**: magnitude of charge of a transition metal cation indicated by Roman numerals
+
+lesser charges use suffix _ous_
+higher charges use suffix _ic_
+
+![](..\..\..\.pastes\2021-07-14-13-36-09.png)
+
+ex) What is the name of the compound PbCl<sub>4</sub>?
+Lead(IV) chloride
+
+Lead (+4 charge)
+Chlorine (-1 charge)
+
+ex) What is the name of the compound Co<sub>2</sub>S<sub>3</sub>?
+Cobalt(III) Sulfide
+
+Cobalt (variable charge * 2 = 6)
+Sulfur (-2 charge * 3 = 6)
+
